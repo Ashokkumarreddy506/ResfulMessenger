@@ -1,0 +1,1 @@
+This is an example of a messenge using Restapi with Jersey
